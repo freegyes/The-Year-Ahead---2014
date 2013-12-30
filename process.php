@@ -7,7 +7,7 @@ if (isset($_POST['name'])) {
 $name = strip_tags($_POST['name']);
 $email = strip_tags($_POST['email']);
 $message = strip_tags($_POST['message']);
-echo "A fejlesztési javaslatodat megkaptuk, köszönjük.";
+echo "We have received your improvement idea. Thank you!";
  
 //generate email and send!
 $to = $myemail;
