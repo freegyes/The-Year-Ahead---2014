@@ -1,4 +1,4 @@
-Előtted az év | 2014
+The Year Ahead | 2014
 ====================
 **fully responsive download page**
 
